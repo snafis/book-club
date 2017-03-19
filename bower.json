@@ -1,9 +1,9 @@
 {
-  "name": "reading-list",
+  "name": "book-club",
   "version": "0.0.0",
-  "homepage": "https://github.com/bamos/reading-list",
+  "homepage": "https://github.com/snafis/book-club",
   "authors": [
-    "Brandon Amos <bamos@cs.cmu.edu>"
+    "Shifath Nafis <snafis@cs.ox.ac.uk>"
   ],
   "license": "MIT",
   "ignore": [
